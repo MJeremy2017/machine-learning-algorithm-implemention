@@ -1,2 +1,2 @@
-# Algorithm_Implemention
-Implement algorithms with basic functions
+# Algorithm Implemention
+Implement algorithms with built-in functions
